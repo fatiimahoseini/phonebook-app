@@ -15,11 +15,7 @@ A simple graphical phonebook application built with Python and Tkinter.
 Make sure you have Python installed.
 
 Run the app with:
-
 ```bash
 python main.py
 
----
 
-## Contact
-[Fatima Hosseini] - [fatiimahoseini@gmail.com] - Linkedin
