@@ -11,11 +11,11 @@ This app allows you to:
 - 🚪 Exit the app gracefully
 
 ## Features
-Clean and minimal GUI (Tkinter)
-Persistent storage using JSON
-Real-time updates to the contact list
-Easy-to-use input fields and buttons
-Lightweight & beginner-friendly codebase
+- Clean and minimal GUI (Tkinter)
+- Persistent storage using JSON
+- Real-time updates to the contact list
+- Easy-to-use input fields and buttons
+- Lightweight & beginner-friendly codebase
 
 ## Getting Started
 1. Clone the Repository
